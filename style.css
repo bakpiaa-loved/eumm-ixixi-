@@ -1051,7 +1051,7 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
   position:relative;
   color:rgba(250,221,234,0.959);
   font-family:'Poppins', sans-serif;
-  font-size:10px;
+  font-size:20px;
   line-height:1;
   letter-spacing:.5px;
 }
